@@ -18,7 +18,7 @@ This project is an AI-powered tool that uses the Hugging Face model API and Open
 
 ## Requirements
 
-- Python 3.6 or above
+- Python 3.8 or above
 - Hugging Face API credentials
 - OpenAI API credentials
 - Streamlit package
