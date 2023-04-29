@@ -46,17 +46,7 @@ $ pip install -r requirements.txt
 3. Wait for the tool to generate captions and hashtags.
 4. Choose the captions and hashtags that best suit your needs.
 
-## Demo
-
-Click [here](https://youtu.be/o6sE8XtJDiI) to watch a demonstration of the tool in action.
-
-[![Demo Video](http://img.youtube.com/vi/o6sE8XtJDiI/0.jpg)](http://www.youtube.com/watch?v=o6sE8XtJDiI "Demo Video")
-
-
 ## Credits
 
-This tool was built by Varshith Kumar as a demonstration project using the Hugging Face and OpenAI APIs.
+This tool was built by Sivaramakrishnan as a demonstration project using the Hugging Face and OpenAI APIs.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
